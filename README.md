@@ -1,5 +1,2 @@
-# hello-world
-Test
-
-This is a test to make sure the edits work
-# :)
+# Python test
+Testing python code
